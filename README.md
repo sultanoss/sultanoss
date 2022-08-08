@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sultan
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m  Frontend Developer.
 - 📫 How to reach me ...radwansultan@hotmail.de
 
 <!---
